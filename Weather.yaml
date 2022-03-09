@@ -1,3 +1,4 @@
 payload:
+  - DOMAIN,api.aqicn.org
   - DOMAIN,api.waqi.info
   - DOMAIN,api.weather.com
