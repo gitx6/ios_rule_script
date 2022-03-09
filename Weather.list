@@ -1,3 +1,5 @@
 HOST,api.aqicn.org,Weather
 HOST,api.waqi.info,Weather
 HOST,api.weather.com,Weather
+HOST,weather-data.apple.com,Weather
+HOST,weather-data-origin.apple.com,Weather
