@@ -2,5 +2,3 @@ payload:
   - DOMAIN,api.aqicn.org
   - DOMAIN,api.waqi.info
   - DOMAIN,api.weather.com
-  - DOMAIN,weather-data.apple.com
-  - DOMAIN,weather-data-origin.apple.com
