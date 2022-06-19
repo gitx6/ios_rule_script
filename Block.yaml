@@ -11,4 +11,4 @@ payload:
   - DOMAIN-SUFFIX,4hu.com
   - DOMAIN-SUFFIX,netflav.com
   - DOMAIN-SUFFIX,jable.tv
-  - DOMAIN-KEYWORD,porn,REJECT
+  - DOMAIN-KEYWORD,porn
