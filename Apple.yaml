@@ -28,6 +28,6 @@ payload:
   - DOMAIN,mask-h2.icloud.com
   - DOMAIN,mask-t.apple-dns.net
 # > Podcasts
-  - DOMAIN,dts.podtrac.com
   - DOMAIN,chrt.fm
   - DOMAIN,pdst.fm
+  - DOMAIN-SUFFIX,podtrac.com
