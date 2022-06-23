@@ -13,7 +13,7 @@ payload:
 # Content caching locator service
   - DOMAIN,lcdn-locator.apple.com  
 # > iCloud
-  - DOMAIN-SUFFIX,,gateway.icloud.com
+  - DOMAIN-SUFFIX,gateway.icloud.com
 # > News
   - DOMAIN-SUFFIX,news-edge.apple.com
   - DOMAIN-SUFFIX,news-events.apple.com
