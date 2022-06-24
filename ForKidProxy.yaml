@@ -12,4 +12,3 @@ payload:
   - DOMAIN,chrt.fm
   - DOMAIN,pdst.fm
   - DOMAIN-SUFFIX,podtrac.com
-  - IP-CIDR,172.30.0.0/16
