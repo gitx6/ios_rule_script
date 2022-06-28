@@ -7,7 +7,7 @@ payload:
   - DOMAIN,e16991.b.akamaiedge.net
 # > Apple Content caching
 # https://support.apple.com/en-us/HT210060
-#  - IP-CIDR,17.57.21.63/32, no-resolve
+  - IP-CIDR,17.57.21.63/32, no-resolve
 # Server registration
   - DOMAIN,lcdn-registration.apple.com
 # Content caching locator service
@@ -28,6 +28,5 @@ payload:
   - DOMAIN,mask-h2.icloud.com
   - DOMAIN,mask-t.apple-dns.net
 # > Podcasts
-  - DOMAIN,chrt.fm
-  - DOMAIN,pdst.fm
+  - DOMAIN-SUFFIX,fm
   - DOMAIN-SUFFIX,podtrac.com
