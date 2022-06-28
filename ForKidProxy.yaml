@@ -12,4 +12,4 @@ payload:
   - DOMAIN-KEYWORD,wmsxwd
   - DOMAIN-SUFFIX,fm
   - DOMAIN-SUFFIX,podtrac.com
-  - IP-CIDR,172.30.0.0/16, no-resolve
+  - IP-CIDR,172.30.0.0/16,no-resolve
