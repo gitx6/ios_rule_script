@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,eeuroparts.com
   - DOMAIN-SUFFIX,ifixit.com
   - DOMAIN-SUFFIX,feedly.com
+  - DOMAIN-SUFFIX,hk01.com
 # VPN
   - DOMAIN-SUFFIX,nnss.ooo
   - DOMAIN-KEYWORD,wmsxwd
