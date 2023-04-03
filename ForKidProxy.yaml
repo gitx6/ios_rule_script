@@ -11,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,feedly.com
   - DOMAIN-SUFFIX,hk01.com
   - DOMAIN-SUFFIX,substack.com
+  - DOMAIN-SUFFIX,medium.com
 # VPN
   - DOMAIN-SUFFIX,nnss.ooo
   - DOMAIN-KEYWORD,wmsxwd
