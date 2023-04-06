@@ -7,7 +7,7 @@ payload:
   - DOMAIN,e16991.b.akamaiedge.net
 # > Apple Content caching
 # https://support.apple.com/en-us/HT210060
-  - IP-CIDR,17.57.21.63/32, no-resolve
+  - IP-CIDR,17.57.21.63/32,no-resolve
 # Server registration
   - DOMAIN,lcdn-registration.apple.com
 # Content caching locator service
@@ -18,6 +18,13 @@ payload:
   - DOMAIN-SUFFIX,news-edge.apple.com
   - DOMAIN-SUFFIX,news-events.apple.com
   - DOMAIN-SUFFIX,apple.comscoreresearch.com
+  - DOMAIN-SUFFIX,news-assets.apple.com
 # > Podcasts
   - DOMAIN-SUFFIX,fm
   - DOMAIN-SUFFIX,podtrac.com
+# > iCloud Private Relay
+  # https://developer.apple.com/cn/support/prepare-your-network-for-icloud-private-relay/
+  # https://mask-api.icloud.com/egress-ip-ranges.csv
+  # Allow for network traffic audits
+  - DOMAIN,mask-api.icloud.com
+  - DOMAIN,mask-api.fe.apple-dns.net
