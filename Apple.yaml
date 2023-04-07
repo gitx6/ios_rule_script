@@ -19,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,news-events.apple.com
   - DOMAIN-SUFFIX,apple.comscoreresearch.com
   - DOMAIN-SUFFIX,news-assets.apple.com
+  - DOMAIN-SUFFIX,newsletter-edge.apple.com
 # > Podcasts
   - DOMAIN-SUFFIX,fm
   - DOMAIN-SUFFIX,podtrac.com
