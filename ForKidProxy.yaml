@@ -6,7 +6,7 @@ payload:
 #  - DOMAIN,urlencoder.org
 #  - DOMAIN-SUFFIX,ruanyifeng.com
 #  - DOMAIN-SUFFIX,dc.com
-#  - DOMAIN-SUFFIX,eeuroparts.com
+  - DOMAIN-SUFFIX,eeuroparts.com
 #  - DOMAIN-SUFFIX,ifixit.com
 #  - DOMAIN-SUFFIX,feedly.com
 #  - DOMAIN-SUFFIX,hk01.com
