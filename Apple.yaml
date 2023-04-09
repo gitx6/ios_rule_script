@@ -25,6 +25,7 @@ payload:
   - DOMAIN,news-edge.apple.com
   - DOMAIN,news-events.apple.com
   - DOMAIN,newsletter-edge.apple.com
+  - DOMAIN,news.iadsdk.apple.com
   - DOMAIN-SUFFIX,apple.news
   - PROCESS-NAME,news
 # > Podcasts
