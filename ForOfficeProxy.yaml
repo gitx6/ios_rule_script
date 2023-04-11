@@ -10,8 +10,8 @@ payload:
 #  - DOMAIN-SUFFIX,ifixit.com
   - DOMAIN-SUFFIX,feedly.com
   - DOMAIN-SUFFIX,hk01.com
-#  - DOMAIN-SUFFIX,substack.com
-#  - DOMAIN-SUFFIX,medium.com
+  - DOMAIN-SUFFIX,substack.com
+  - DOMAIN-SUFFIX,medium.com
   - DOMAIN-SUFFIX,duolingo.com
 # VPN
 #  - DOMAIN-SUFFIX,nnss.ooo
