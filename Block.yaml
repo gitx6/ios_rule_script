@@ -1,8 +1,8 @@
 payload:
-  - DOMAIN,safebrowsing.google.com
-  - DOMAIN,safebrowsing.googleapis.com
-  - DOMAIN,safebrowsing.urlsec.qq.com
-  - DOMAIN,proxy.safebrowsing.apple
+  - DOMAIN-SUFFIX,safebrowsing.google.com
+  - DOMAIN-SUFFIX,safebrowsing.googleapis.com
+  - DOMAIN-SUFFIX,safebrowsing.urlsec.qq.com
+  - DOMAIN-SUFFIX,safebrowsing.apple
   - DOMAIN-SUFFIX,4hu.com
   - DOMAIN-SUFFIX,bongacams.com
   - DOMAIN-SUFFIX,chaturbate.com
