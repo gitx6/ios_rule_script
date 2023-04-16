@@ -17,8 +17,7 @@ payload:
   - DOMAIN-SUFFIX,jerkmate.com
   - DOMAIN-SUFFIX,kknews.cc
   - DOMAIN-SUFFIX,nelreports.net
-  - DOMAIN-SUFFIX,onlyfans.com  
-  - DOMAIN-SUFFIX,ruckuscontroller.lan
+  - DOMAIN-SUFFIX,onlyfans.com
   - DOMAIN-SUFFIX,skk.moe
   - DOMAIN-SUFFIX,spankbang.com
   - DOMAIN-SUFFIX,stripchat.com
@@ -30,3 +29,4 @@ payload:
   - DOMAIN-SUFFIX,zenkube.com
   - DOMAIN-SUFFIX,ztehome.com.cn
   - DOMAIN-KEYWORD,porn
+  - DOMAIN-KEYWORD,ruckuscontroller
