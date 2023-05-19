@@ -31,3 +31,5 @@ payload:
   - DOMAIN-KEYWORD,porn
   - DOMAIN-KEYWORD,ruckuscontroller
   - DOMAIN,weather-analytics-events.apple.com
+  #> OpenAI 内置的错误跟踪器
+  - DOMAIN,o33249.ingest.sentry.io
