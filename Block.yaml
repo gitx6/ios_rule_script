@@ -23,6 +23,7 @@ payload:
   - DOMAIN-SUFFIX,stripchat.com
   - DOMAIN-SUFFIX,tuanguwen.com
   - DOMAIN-SUFFIX,vzuu.com
+  - DOMAIN-SUFFIX,wyzxwk.com
   - DOMAIN-SUFFIX,xhamster.com
   - DOMAIN-SUFFIX,xnxx.com
   - DOMAIN-SUFFIX,xvideos.com
@@ -33,3 +34,4 @@ payload:
   - DOMAIN,weather-analytics-events.apple.com
   #> OpenAI 内置的错误跟踪器
   - DOMAIN,o33249.ingest.sentry.io
+  - DOMAIN-SUFFIX,sentry.io
