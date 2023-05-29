@@ -3,6 +3,10 @@ DOMAIN,safebrowsing.googleapis.com
 DOMAIN,safebrowsing.urlsec.qq.com
 DOMAIN,safebrowsing.apple
 DOMAIN,weather-analytics-events.apple.com
+DOMAIN-SUFFIX,skk.moe
 #> OpenAI 内置的错误跟踪器
 DOMAIN,o33249.ingest.sentry.io
-DOMAIN-SUFFIX,skk.moe
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,statsigapi.net
