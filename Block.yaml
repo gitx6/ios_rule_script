@@ -35,3 +35,6 @@ payload:
   #> OpenAI 内置的错误跟踪器
   - DOMAIN,o33249.ingest.sentry.io
   - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,intercom.io
+  - DOMAIN-SUFFIX,featuregates.org
+  - DOMAIN-SUFFIX,statsigapi.net
