@@ -13,7 +13,7 @@ payload:
   - DOMAIN-SUFFIX,substack.com
   - DOMAIN-SUFFIX,medium.com
   - DOMAIN-SUFFIX,duolingo.com
-  - DOMAIN-SUFFIX, duolingo.cn
+  - DOMAIN-SUFFIX,duolingo.cn
   - DOMAIN-SUFFIX,ipdata.co
 # VPN
 #  - DOMAIN-SUFFIX,nnss.ooo
