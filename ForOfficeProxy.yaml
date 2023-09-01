@@ -10,6 +10,7 @@ payload:
 #  - DOMAIN-SUFFIX,ifixit.com
   - DOMAIN-SUFFIX,feedly.com
   - DOMAIN-SUFFIX,hk01.com
+  - DOMAIN-SUFFIX,hangseng.com
   - DOMAIN-SUFFIX,substack.com
   - DOMAIN-SUFFIX,medium.com
   - DOMAIN-SUFFIX,duolingo.com
