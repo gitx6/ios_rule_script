@@ -15,6 +15,9 @@ payload:
   - DOMAIN-SUFFIX,medium.com
   - DOMAIN-SUFFIX,duolingo.com
   - DOMAIN-SUFFIX,duolingo.cn
+  - DOMAIN-SUFFIX,volces.com
+  - DOMAIN-SUFFIX,bytescm.com
+  - DOMAIN-SUFFIX,zijieapi.com
   - DOMAIN-SUFFIX,ipdata.co
 # VPN
 #  - DOMAIN-SUFFIX,nnss.ooo
