@@ -12,6 +12,8 @@ DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,statsigapi.net
 #> Duolingo
 DOMAIN,tnc3-alisc1.zijieapi.com
+DOMAIN,tnc3-aliec2.zijieapi.com
+DOMAIN,tnc3-bjlgy.zijieapi.com
 DOMAIN,mon.zijieapi.com
 DOMAIN,mssdk.volces.com
 DOMAIN,lf-cdn-tos.bytescm.com
@@ -19,4 +21,3 @@ DOMAIN,sf3-fe-tos.pglstatp-toutiao.com
 DOMAIN,api-access.pangolin-sdk-toutiao1.com
 DOMAIN,api-access.pangolin-sdk-toutiao-b.com
 DOMAIN,toblog.ctobsnssdk.com
-DOMAIN,tnc3-bjlgy.zijieapi.com
