@@ -24,3 +24,9 @@ payload:
 # VPN
 #  - DOMAIN-SUFFIX,nnss.ooo
 #  - DOMAIN-KEYWORD,wmsxwd
+# Zoom meeting
+  - DOMAIN-SUFFIX,zoom.us
+  - DOMAIN-SUFFIX,zpns.zoom.us
+  - DOMAIN-SUFFIX,cloud.zoom.us
+  - DOMAIN-SUFFIX,zoom.us
+  - DOMAIN-SUFFIX,zoomgov.com
