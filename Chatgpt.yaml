@@ -1,9 +1,11 @@
 payload:
   - DOMAIN-KEYWORD,openai
-  - DOMAIN-SUFFIX,openai.com
   - DOMAIN,chat.openai.com
   - DOMAIN,auth0.openai.com
   - DOMAIN,api.openai.com
   - DOMAIN,cdn.openai.com
   - DOMAIN,cdn.auth0.com
   - DOMAIN,openaiapi-site.azureedge.net
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
