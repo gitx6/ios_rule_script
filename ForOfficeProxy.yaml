@@ -14,6 +14,11 @@ payload:
 
   - DOMAIN-SUFFIX,ipdata.co
 
+  - DOMAIN,gateway.icloud.com
+  - DOMAIN,news-edge.apple.com
+  - DOMAIN,news-events.apple.com
+  - DOMAIN,apple.comscoreresearch.com
+
 # Zoom meeting
   - DOMAIN-SUFFIX,zoom.us
   - DOMAIN-SUFFIX,zpns.zoom.us
