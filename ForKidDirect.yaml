@@ -1,15 +1,5 @@
 payload:
-  - DOMAIN,baike.baidu.com
-  - DOMAIN,www.baidu.com
-  - DOMAIN-SUFFIX,awemeugsoul.com
-  - DOMAIN-SUFFIX,bcebos.com
-  - DOMAIN-SUFFIX,edityouraudio.com
-  - DOMAIN-SUFFIX,hitv.com
-  - DOMAIN-SUFFIX,karaoke-version.com
-  - DOMAIN-SUFFIX,mgtv.com
-  - DOMAIN-SUFFIX,sogou.com
-  - DOMAIN-SUFFIX,soso.com
-  - DOMAIN-SUFFIX,thepaper.cn
-  - DOMAIN-SUFFIX,video.qq.com
-  - DOMAIN-SUFFIX,zhihu.com
-  - DOMAIN-SUFFIX,zuoyebang.com
+  - DOMAIN,gspe1-ssl.ls.apple.com
+  - DOMAIN,gspe19-cn-ssl.ls.apple.com
+  - DOMAIN,dispatcher.is.autonavi.com
+  - DOMAIN,direction2.is.autonavi.com
