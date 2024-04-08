@@ -2,17 +2,12 @@ payload:
 # Lindedin 
   - DOMAIN-SUFFIX,licdn.com
   - DOMAIN-SUFFIX,linkedin.com
+
 # News
-  - DOMAIN-SUFFIX,eeuroparts.com
   - DOMAIN-SUFFIX,feedly.com
   - DOMAIN-SUFFIX,hk01.com
   - DOMAIN-SUFFIX,substack.com
   - DOMAIN-SUFFIX,medium.com
-  
-  - DOMAIN-SUFFIX,duolingo.com
-  - DOMAIN-SUFFIX,duolingo.cn
-
-  - DOMAIN-SUFFIX,ipdata.co
 
   - DOMAIN,gateway.icloud.com
   - DOMAIN,news-edge.apple.com
@@ -30,3 +25,13 @@ payload:
   - DOMAIN,lookup-api.apple.com
   - DOMAIN,lookup-api.apple.com.edgekey.net
   - DOMAIN,e16991.b.akamaiedge.net
+
+#Other
+  - DOMAIN-SUFFIX,waqi.info
+  
+  - DOMAIN-SUFFIX,eeuroparts.com
+
+  - DOMAIN-SUFFIX,duolingo.com
+  - DOMAIN-SUFFIX,duolingo.cn
+
+  - DOMAIN-SUFFIX,ipdata.co
