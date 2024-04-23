@@ -1,9 +1,9 @@
 payload:
-  - DOMAIN-SUFFIX,mail.icloud.com.cn
-  - DOMAIN-SUFFIX,mail.me.com
   - DST-PORT,25
   - DST-PORT,110
   - DST-PORT,143
   - DST-PORT,465
   - DST-PORT,587
   - DST-PORT,993
+  - DOMAIN-SUFFIX,mail.icloud.com.cn
+  - DOMAIN-SUFFIX,mail.me.com
