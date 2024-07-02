@@ -1,17 +1,19 @@
 # Lindedin
-DOMAIN-SUFFIX, licdn.com
-DOMAIN-SUFFIX, linkedin.com
+DOMAIN-SUFFIX,licdn.com
+DOMAIN-SUFFIX,linkedin.com
 # duolingo
-DOMAIN-SUFFIX, duolingo.com
-DOMAIN-SUFFIX, duolingo.cn
+DOMAIN-SUFFIX,duolingo.com
+DOMAIN-SUFFIX,duolingo.cn
 # Zoom meeting
-DOMAIN-SUFFIX, zoom.us
-DOMAIN-SUFFIX, zpns.zoom.us
-DOMAIN-SUFFIX, cloud.zoom.us
-DOMAIN-SUFFIX, zoom.us
-DOMAIN-SUFFIX, zoomgov.com
+DOMAIN-SUFFIX,zoom.us
+DOMAIN-SUFFIX,zpns.zoom.us
+DOMAIN-SUFFIX,cloud.zoom.us
+DOMAIN-SUFFIX,zoom.us
+DOMAIN-SUFFIX,zoomgov.com
 # Siri
 DOMAIN,apple.comscoreresearch.com
 DOMAIN,lookup-api.apple.com
 DOMAIN,lookup-api.apple.com.edgekey.net
 DOMAIN,e16991.b.akamaiedge.net
+# Podcasts
+DOMAIN-SUFFIX,podcasts.apple.com
