@@ -3,34 +3,33 @@ payload:
   - DOMAIN-SUFFIX,safebrowsing.googleapis.com
   - DOMAIN-SUFFIX,safebrowsing.urlsec.qq.com
   - DOMAIN-SUFFIX,safebrowsing.apple
-  - DOMAIN-SUFFIX,4hu.com
-  - DOMAIN-SUFFIX,bongacams.com
-  - DOMAIN-SUFFIX,chaturbate.com
-  - DOMAIN-SUFFIX,fanqienovel.com
-  - DOMAIN-SUFFIX,fanqieopen.com
-  - DOMAIN-SUFFIX,fqnovelvod.com
-  - DOMAIN-SUFFIX,flexmaster
-  - DOMAIN-SUFFIX,changdunovel.com
+  #> - DOMAIN-SUFFIX,4hu.com
+  #> - DOMAIN-SUFFIX,bongacams.com
+  #> - DOMAIN-SUFFIX,chaturbate.com
+  #> - DOMAIN-SUFFIX,fanqienovel.com
+  #> - DOMAIN-SUFFIX,fanqieopen.com
+  #> - DOMAIN-SUFFIX,fqnovelvod.com
+  #> - DOMAIN-SUFFIX,flexmaster
+  #> - DOMAIN-SUFFIX,changdunovel.com
   - DOMAIN-SUFFIX,ip.sb
-  - DOMAIN-SUFFIX,netflav.com
-  - DOMAIN-SUFFIX,jable.tv
-  - DOMAIN-SUFFIX,jerkmate.com
-  - DOMAIN-SUFFIX,kknews.cc
-  - DOMAIN-SUFFIX,nelreports.net
-  - DOMAIN-SUFFIX,onlyfans.com
-  - DOMAIN-SUFFIX,piaoquantv.com
+  #> - DOMAIN-SUFFIX,netflav.com
+  #> - DOMAIN-SUFFIX,jable.tv
+  #> - DOMAIN-SUFFIX,jerkmate.com
+  #> - DOMAIN-SUFFIX,kknews.cc
+  #> - DOMAIN-SUFFIX,nelreports.net
+  #> - DOMAIN-SUFFIX,onlyfans.com
+  #> - DOMAIN-SUFFIX,piaoquantv.com
   - DOMAIN-SUFFIX,skk.moe
-  - DOMAIN-SUFFIX,spankbang.com
-  - DOMAIN-SUFFIX,stripchat.com
-  - DOMAIN-SUFFIX,tuanguwen.com
-  - DOMAIN-SUFFIX,vzuu.com
-  - DOMAIN-SUFFIX,wyzxwk.com
-  - DOMAIN-SUFFIX,xhamster.com
-  - DOMAIN-SUFFIX,xnxx.com
-  - DOMAIN-SUFFIX,xvideos.com
-  - DOMAIN-SUFFIX,zenkube.com
+  #> - DOMAIN-SUFFIX,spankbang.com
+  #> - DOMAIN-SUFFIX,stripchat.com
+  #> - DOMAIN-SUFFIX,tuanguwen.com
+  #> - DOMAIN-SUFFIX,vzuu.com
+  #> - DOMAIN-SUFFIX,wyzxwk.com
+  #> - DOMAIN-SUFFIX,xhamster.com
+  #> - DOMAIN-SUFFIX,xnxx.com
+  #> - DOMAIN-SUFFIX,xvideos.com
+  #> - DOMAIN-SUFFIX,zenkube.com
   - DOMAIN-SUFFIX,ztehome.com.cn
-  - DOMAIN-KEYWORD,porn
   - DOMAIN-KEYWORD,ruckuscontroller
   - DOMAIN,hwyresstatic.ll.tcdnos.com
   - DOMAIN,weather-analytics-events.apple.com
