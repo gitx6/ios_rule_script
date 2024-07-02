@@ -2,25 +2,21 @@ payload:
 # Lindedin 
   - DOMAIN-SUFFIX,licdn.com
   - DOMAIN-SUFFIX,linkedin.com
-
 # Zoom meeting
   - DOMAIN-SUFFIX,zoom.us
   - DOMAIN-SUFFIX,zpns.zoom.us
   - DOMAIN-SUFFIX,cloud.zoom.us
   - DOMAIN-SUFFIX,zoom.us
   - DOMAIN-SUFFIX,zoomgov.com
-
-#Siri
+# Siri
   - DOMAIN,lookup-api.apple.com
   - DOMAIN,lookup-api.apple.com.edgekey.net
   - DOMAIN,e16991.b.akamaiedge.net
-
-#Other
+# Podcasts
+  - DOMAIN-SUFFIX,podcasts.apple.com
+# Other
   - DOMAIN-SUFFIX,waqi.info
-
   - DOMAIN-SUFFIX,eeuroparts.com
-
   - DOMAIN-SUFFIX,duolingo.com
   - DOMAIN-SUFFIX,duolingo.cn
-
   - DOMAIN-SUFFIX,ipdata.co
