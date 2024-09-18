@@ -2,5 +2,6 @@ payload:
   - DOMAIN,gspe19-cn-ssl.ls.apple.com
   - DOMAIN,dispatcher.is.autonavi.com
   - DOMAIN,direction2.is.autonavi.com
+  - DOMAIN-SUFFIX,12306.cn
   - DOMAIN-SUFFIX,masterkong.com.cn
   - DOMAIN-SUFFIX,kbh.pvt
