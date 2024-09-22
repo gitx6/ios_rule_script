@@ -3,5 +3,5 @@ payload:
   - DOMAIN,news-edge.apple.com
   - DOMAIN,news-events.apple.com
   - DOMAIN,apple.comscoreresearch.com
-  - DOMAIN,gspe1-ssl.ls.apple.com
+  - DOMAIN,gspe1-ssl.ls.apple.com/pep/gcc
   - DOMAIN-SUFFIX,bankofamerica.com
