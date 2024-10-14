@@ -20,8 +20,7 @@ payload:
 # Podcasts
   - DOMAIN-SUFFIX,podcasts.apple.com
 # Other
+  - DOMAIN-KEYWORD,duolingo
   - DOMAIN-SUFFIX,waqi.info  
   - DOMAIN-SUFFIX,eeuroparts.com
-  - DOMAIN-SUFFIX,duolingo.com
-  - DOMAIN-SUFFIX,duolingo.cn
   - DOMAIN-SUFFIX,ipdata.co
