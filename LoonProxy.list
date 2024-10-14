@@ -2,8 +2,7 @@
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,linkedin.com
 # duolingo
-DOMAIN-SUFFIX,duolingo.com
-DOMAIN-SUFFIX,duolingo.cn
+DOMAIN-KEYWORD,duolingo
 # Zoom meeting
 DOMAIN-SUFFIX,zoom.us
 DOMAIN-SUFFIX,zpns.zoom.us
