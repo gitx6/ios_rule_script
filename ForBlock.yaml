@@ -3,6 +3,10 @@ payload:
   - DOMAIN-SUFFIX,safebrowsing.googleapis.com
   - DOMAIN-SUFFIX,safebrowsing.urlsec.qq.com
   - DOMAIN-SUFFIX,safebrowsing.apple
+  - DOMAIN-SUFFIX,u3.ucweb.com
+  - DOMAIN,lookup.api.bsb.baidu.com
+  - DOMAIN,safebrowsing.g.applimg.com
+  - DOMAIN,vs6.bj2ct.u3.ucweb.com
   #> - DOMAIN-SUFFIX,4hu.com
   #> - DOMAIN-SUFFIX,bongacams.com
   #> - DOMAIN-SUFFIX,chaturbate.com
