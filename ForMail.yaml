@@ -5,5 +5,6 @@ payload:
   - DST-PORT,465
   - DST-PORT,587
   - DST-PORT,993
+  - DOMAIN,imap.gmail.com
   - DOMAIN-SUFFIX,mail.icloud.com.cn
   - DOMAIN-SUFFIX,mail.me.com
