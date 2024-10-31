@@ -5,3 +5,14 @@ payload:
   - DOMAIN-SUFFIX,12306.cn
   - DOMAIN-SUFFIX,masterkong.com.cn
   - DOMAIN-SUFFIX,kbh.pvt
+  - DOMAIN-SUFFIX,qlogo.cn
+  - DOMAIN-SUFFIX,qpic.cn
+  - DOMAIN,amdc.alipay.com
+  - DOMAIN,apoll.m.taobao.com
+  - DOMAIN,amdc.m.taobao.com
+  - IP-CIDR, 10.0.0.0/8
+  - IP-CIDR, 127.0.0.0/8
+  - IP-CIDR, 132.147.70.11/32
+  - IP-CIDR, 172.16.0.0/12
+  - IP-CIDR, 192.168.0.0/16
+  - IP-CIDR, 224.0.0.0/24
