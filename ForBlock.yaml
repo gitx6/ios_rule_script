@@ -1,12 +1,13 @@
 payload:
-  #> - DOMAIN-SUFFIX,safebrowsing.google.com
-  #> - DOMAIN-SUFFIX,safebrowsing.googleapis.com
-  #> - DOMAIN-SUFFIX,safebrowsing.urlsec.qq.com
-  #> - DOMAIN-SUFFIX,safebrowsing.apple
-  #> - DOMAIN-SUFFIX,u3.ucweb.com
-  #> - DOMAIN,lookup.api.bsb.baidu.com
-  #> - DOMAIN,safebrowsing.g.applimg.com
-  #> - DOMAIN,vs6.bj2ct.u3.ucweb.com
+  #> Safe Browsing 
+  - DOMAIN-SUFFIX,safebrowsing.google.com
+  - DOMAIN-SUFFIX,safebrowsing.googleapis.com
+  - DOMAIN-SUFFIX,safebrowsing.urlsec.qq.com
+  - DOMAIN-SUFFIX,safebrowsing.apple
+  - DOMAIN-SUFFIX,u3.ucweb.com
+  - DOMAIN,lookup.api.bsb.baidu.com
+  - DOMAIN,safebrowsing.g.applimg.com
+  - DOMAIN,vs6.bj2ct.u3.ucweb.com
   #> - DOMAIN-SUFFIX,4hu.com
   #> - DOMAIN-SUFFIX,bongacams.com
   #> - DOMAIN-SUFFIX,chaturbate.com
@@ -15,7 +16,6 @@ payload:
   #> - DOMAIN-SUFFIX,fqnovelvod.com
   #> - DOMAIN-SUFFIX,flexmaster
   #> - DOMAIN-SUFFIX,changdunovel.com
-  #> - DOMAIN-SUFFIX,ip.sb
   #> - DOMAIN-SUFFIX,netflav.com
   #> - DOMAIN-SUFFIX,jable.tv
   #> - DOMAIN-SUFFIX,jerkmate.com
@@ -23,7 +23,6 @@ payload:
   #> - DOMAIN-SUFFIX,nelreports.net
   #> - DOMAIN-SUFFIX,onlyfans.com
   #> - DOMAIN-SUFFIX,piaoquantv.com
-  #> - DOMAIN-SUFFIX,skk.moe
   #> - DOMAIN-SUFFIX,spankbang.com
   #> - DOMAIN-SUFFIX,stripchat.com
   #> - DOMAIN-SUFFIX,tuanguwen.com
@@ -34,8 +33,8 @@ payload:
   #> - DOMAIN-SUFFIX,xvideos.com
   #> - DOMAIN-SUFFIX,zenkube.com
   - DOMAIN-SUFFIX,ztehome.com.cn
-  - DOMAIN-KEYWORD,ruckuscontroller
-  #> - DOMAIN,hwyresstatic.ll.tcdnos.com
+  - DOMAIN,hwyresstatic.ll.tcdnos.com
+  #> Apple Weather
   - DOMAIN,weather-analytics-events.apple.com
   #> OpenAI 内置的错误跟踪器
   - DOMAIN,o33249.ingest.sentry.io
@@ -43,17 +42,5 @@ payload:
   - DOMAIN-SUFFIX,intercom.io
   - DOMAIN-SUFFIX,featuregates.org
   - DOMAIN-SUFFIX,statsigapi.net
-  #> Youtube UDP
-  #> - AND,((DOMAIN-SUFFIX,googlevideo.com), (NETWORK,UDP))
-  #> - AND,((DOMAIN,youtubei.googleapis.com), (NETWORK,UDP))
-  #> Duolingo
-  #> - DOMAIN,tnc3-alisc1.zijieapi.com
-  #> - DOMAIN,tnc3-aliec2.zijieapi.com
-  #> - DOMAIN,tnc3-bjlgy.zijieapi.com
-  #> - DOMAIN,mon.zijieapi.com
-  #> - DOMAIN,mssdk.volces.com
-  #> - DOMAIN,lf-cdn-tos.bytescm.com
-  #> - DOMAIN,sf3-fe-tos.pglstatp-toutiao.com
-  #> - DOMAIN,api-access.pangolin-sdk-toutiao1.com
-  #> - DOMAIN,api-access.pangolin-sdk-toutiao-b.com
-  #> - DOMAIN,toblog.ctobsnssdk.com
+  #> Telegram
+  - IP-CIDR,95.161.76.100/31
