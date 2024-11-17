@@ -1,11 +1,13 @@
-#> DOMAIN-SUFFIX,safebrowsing.google.com
-#> DOMAIN-SUFFIX,safebrowsing.googleapis.com
-#> DOMAIN-SUFFIX,safebrowsing.urlsec.qq.com
-#> DOMAIN-SUFFIX,safebrowsing.apple
-#> DOMAIN-SUFFIX,u3.ucweb.com
-#> DOMAIN,lookup.api.bsb.baidu.com
-#> DOMAIN,safebrowsing.g.applimg.com
-#> DOMAIN,vs6.bj2ct.u3.ucweb.com
+#> Safe Browsing 
+DOMAIN-SUFFIX,safebrowsing.google.com
+DOMAIN-SUFFIX,safebrowsing.googleapis.com
+DOMAIN-SUFFIX,safebrowsing.urlsec.qq.com
+DOMAIN-SUFFIX,safebrowsing.apple
+DOMAIN-SUFFIX,u3.ucweb.com
+DOMAIN,lookup.api.bsb.baidu.com
+DOMAIN,safebrowsing.g.applimg.com
+DOMAIN,vs6.bj2ct.u3.ucweb.com
+#> Apple Weather
 DOMAIN,weather-analytics-events.apple.com
 #> OpenAI 内置的错误跟踪器
 DOMAIN,o33249.ingest.sentry.io
@@ -13,14 +15,5 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,statsigapi.net
-#> Duolingo
-#> DOMAIN,tnc3-alisc1.zijieapi.com
-#> DOMAIN,tnc3-aliec2.zijieapi.com
-#> DOMAIN,tnc3-bjlgy.zijieapi.com
-#> DOMAIN,mon.zijieapi.com
-#> DOMAIN,mssdk.volces.com
-#> DOMAIN,lf-cdn-tos.bytescm.com
-#> DOMAIN,sf3-fe-tos.pglstatp-toutiao.com
-#> DOMAIN,api-access.pangolin-sdk-toutiao1.com
-#> DOMAIN,api-access.pangolin-sdk-toutiao-b.com
-#> DOMAIN,toblog.ctobsnssdk.com
+#> Telegram
+IP-CIDR,95.161.76.100/31
