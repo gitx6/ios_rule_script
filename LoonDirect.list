@@ -5,6 +5,7 @@ DOMAIN,direction2.is.autonavi.com
 # Work
 DOMAIN-SUFFIX,masterkong.com.cn
 DOMAIN-SUFFIX,kbh.pvt
+IP-CIDR,132.147.70.11/32,no-resolve
 # Wechat
 DOMAIN-SUFFIX,qlogo.cn
 DOMAIN-SUFFIX,qpic.cn
@@ -12,9 +13,6 @@ DOMAIN-SUFFIX,qpic.cn
 DOMAIN,amdc.alipay.com
 DOMAIN,apoll.m.taobao.com
 DOMAIN,amdc.m.taobao.com
-# Lan
-IP-CIDR,10.0.0.0/8,no-resolve
-IP-CIDR,132.147.70.11/32,no-resolve
 # Nova
 DOMAIN-SUFFIX,xns.one
 DOMAIN-SUFFIX,novaxns.one
