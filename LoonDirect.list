@@ -2,6 +2,8 @@
 DOMAIN,gspe19-cn-ssl.ls.apple.com
 DOMAIN,dispatcher.is.autonavi.com
 DOMAIN,direction2.is.autonavi.com
+# 12306  
+DOMAIN-SUFFIX,12306.cn
 # Work
 DOMAIN-SUFFIX,masterkong.com.cn
 DOMAIN-SUFFIX,kbh.pvt
