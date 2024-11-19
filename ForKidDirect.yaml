@@ -1,18 +1,23 @@
 payload:
+# Apple
   - DOMAIN,gspe19-cn-ssl.ls.apple.com
   - DOMAIN,dispatcher.is.autonavi.com
   - DOMAIN,direction2.is.autonavi.com
+# 12306  
   - DOMAIN-SUFFIX,12306.cn
+# Work  
   - DOMAIN-SUFFIX,masterkong.com.cn
   - DOMAIN-SUFFIX,kbh.pvt
+# Wechat  
   - DOMAIN-SUFFIX,qlogo.cn
   - DOMAIN-SUFFIX,qpic.cn
+# Tapbao  
   - DOMAIN,amdc.alipay.com
   - DOMAIN,apoll.m.taobao.com
   - DOMAIN,amdc.m.taobao.com
-  - IP-CIDR,10.0.0.0/8
-  - IP-CIDR,127.0.0.0/8
-  - IP-CIDR,132.147.70.11/32
-  - IP-CIDR,172.16.0.0/12
-  - IP-CIDR,192.168.0.0/16
-  - IP-CIDR,224.0.0.0/24
+# Lan  
+  - IP-CIDR,10.0.0.0/8,no-resolve
+  - IP-CIDR,132.147.70.11/32,no-resolve
+# Nova
+  - DOMAIN-SUFFIX,xns.one
+  - DOMAIN-SUFFIX,novaxns.one
