@@ -44,3 +44,6 @@ payload:
   - DOMAIN-SUFFIX,statsigapi.net
   #> Telegram
   - IP-CIDR,95.161.76.100/31
+  #> Youtube
+  - AND,((DOMAIN-SUFFIX,googlevideo.com), (NETWORK,UDP))
+  - AND,((DOMAIN,youtubei.googleapis.com), (NETWORK,UDP))
