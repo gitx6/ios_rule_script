@@ -47,3 +47,5 @@ payload:
   #> Youtube
   - AND,((DOMAIN-SUFFIX,googlevideo.com), (NETWORK,UDP))
   - AND,((DOMAIN,youtubei.googleapis.com), (NETWORK,UDP))
+  #> STUN
+  - NETWORK,STUN
