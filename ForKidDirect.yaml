@@ -9,10 +9,11 @@ payload:
   - DOMAIN-SUFFIX,masterkong.com.cn
   - DOMAIN-SUFFIX,kbh.pvt
   - IP-CIDR,132.147.70.11/32,no-resolve
+  - DOMAIN-SUFFIX,envision-aesc.com
 # Wechat  
   - DOMAIN-SUFFIX,qlogo.cn
   - DOMAIN-SUFFIX,qpic.cn
-# Tapbao  
+# Taobao  
   - DOMAIN,amdc.alipay.com
   - DOMAIN,apoll.m.taobao.com
   - DOMAIN,amdc.m.taobao.com
