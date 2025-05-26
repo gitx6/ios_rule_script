@@ -19,3 +19,6 @@ payload:
   - DOMAIN-SUFFIX,waqi.info
   - DOMAIN-SUFFIX,eeuroparts.com
   - DOMAIN-SUFFIX,ipdata.co
+# Apple intelligence
+  - DOMAIN-SUFFIX,apple-relay.cloudflare.com
+  - DOMAIN-SUFFIX,apple-relay.apple.com
