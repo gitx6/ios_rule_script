@@ -16,3 +16,6 @@ DOMAIN,lookup-api.apple.com.edgekey.net
 DOMAIN,e16991.b.akamaiedge.net
 # Podcasts
 DOMAIN-SUFFIX,podcasts.apple.com
+# Apple intelligence
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.apple.com
