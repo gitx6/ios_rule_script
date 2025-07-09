@@ -18,3 +18,12 @@ DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,statsigapi.net
 #> Telegram
 IP-CIDR,95.161.76.100/31
+#> 美团
+DOMAIN-SUFFIX,dreport.meituan.net
+DOMAIN-SUFFIX,d.meituan.net 
+IP-CIDR,202.90.110.46/32 
+IP-CIDR,202.90.108.13/32 
+IP-CIDR,202.90.110.46/32
+IP-CIDR,202.90.108.13/32
+# > 抖音
+- DOMAIN-SUFFIX,slb-p2p.vcloud.ks-live.com
