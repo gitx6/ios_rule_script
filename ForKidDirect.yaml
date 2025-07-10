@@ -8,7 +8,7 @@ payload:
 # Work  
   - DOMAIN-SUFFIX,masterkong.com.cn
   - DOMAIN-SUFFIX,kbh.pvt
-  - IP-CIDR,132.147.70.11/32,no-resolve
+  - IP-CIDR,132.147.70.11/32
   - DOMAIN-SUFFIX,envision-aesc.com
 # Wechat  
   - DOMAIN-SUFFIX,qlogo.cn
@@ -18,5 +18,5 @@ payload:
   - DOMAIN,apoll.m.taobao.com
   - DOMAIN,amdc.m.taobao.com
 # Nova
-  - DOMAIN-SUFFIX,xns.one
-  - DOMAIN-SUFFIX,novaxns.one
+#  - DOMAIN-SUFFIX,xns.one
+#  - DOMAIN-SUFFIX,novaxns.one
