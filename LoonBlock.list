@@ -26,4 +26,4 @@ IP-CIDR,202.90.108.13/32
 IP-CIDR,202.90.110.46/32
 IP-CIDR,202.90.108.13/32
 # > 抖音
-- DOMAIN-SUFFIX,slb-p2p.vcloud.ks-live.com
+DOMAIN-SUFFIX,slb-p2p.vcloud.ks-live.com
