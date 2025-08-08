@@ -6,9 +6,6 @@ payload:
 # 12306  
   - DOMAIN-SUFFIX,12306.cn
 # Work  
-  - DOMAIN-SUFFIX,masterkong.com.cn
-  - DOMAIN-SUFFIX,kbh.pvt
-  - IP-CIDR,132.147.70.11/32
   - DOMAIN-SUFFIX,envision-aesc.com
 # Wechat  
   - DOMAIN-SUFFIX,qlogo.cn
