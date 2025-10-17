@@ -1,7 +1,18 @@
-# > News
+# News
 DOMAIN,gateway.icloud.com
 DOMAIN,news-edge.apple.com
 DOMAIN,news-events.apple.com
 DOMAIN,apple.comscoreresearch.com
-DOMAIN-SUFFIX,bankofamerica.com
 DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
+# Siri
+DOMAIN,apple.comscoreresearch.com
+DOMAIN,lookup-api.apple.com
+DOMAIN,lookup-api.apple.com.edgekey.net
+DOMAIN,e16991.b.akamaiedge.net
+# Podcasts
+DOMAIN-SUFFIX,podcasts.apple.com
+# Apple intelligence
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.apple.com
+# BOA
+DOMAIN-SUFFIX,bankofamerica.com
