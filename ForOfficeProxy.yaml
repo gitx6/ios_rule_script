@@ -13,12 +13,6 @@ payload:
   - DOMAIN-SUFFIX,cloud.zoom.us
   - DOMAIN-SUFFIX,zoom.us
   - DOMAIN-SUFFIX,zoomgov.com
-# Siri
-  - DOMAIN,lookup-api.apple.com
-  - DOMAIN,lookup-api.apple.com.edgekey.net
-  - DOMAIN,e16991.b.akamaiedge.net
-# Podcasts
-  - DOMAIN-SUFFIX,podcasts.apple.com
 # Other
   - DOMAIN-KEYWORD,duolingo
   - DOMAIN-SUFFIX,waqi.info  
