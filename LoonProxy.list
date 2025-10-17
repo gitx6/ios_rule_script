@@ -9,13 +9,3 @@ DOMAIN-SUFFIX,zpns.zoom.us
 DOMAIN-SUFFIX,cloud.zoom.us
 DOMAIN-SUFFIX,zoom.us
 DOMAIN-SUFFIX,zoomgov.com
-# Siri
-DOMAIN,apple.comscoreresearch.com
-DOMAIN,lookup-api.apple.com
-DOMAIN,lookup-api.apple.com.edgekey.net
-DOMAIN,e16991.b.akamaiedge.net
-# Podcasts
-DOMAIN-SUFFIX,podcasts.apple.com
-# Apple intelligence
-DOMAIN-SUFFIX,apple-relay.cloudflare.com
-DOMAIN-SUFFIX,apple-relay.apple.com
