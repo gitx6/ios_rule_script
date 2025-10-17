@@ -9,6 +9,9 @@ payload:
   - DOMAIN,lookup-api.apple.com
   - DOMAIN,lookup-api.apple.com.edgekey.net
   - DOMAIN,e16991.b.akamaiedge.net
+# Apple intelligence
+  - DOMAIN-SUFFIX,apple-relay.cloudflare.com
+  - DOMAIN-SUFFIX,apple-relay.apple.com
 # Podcasts
   - DOMAIN-SUFFIX,podcasts.apple.com  
 # BOA  
