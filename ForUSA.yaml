@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,apple-relay.cloudflare.com
   - DOMAIN-SUFFIX,apple-relay.apple.com
 # Podcasts
-  - DOMAIN-SUFFIX,podcasts.apple.com  
+  - DOMAIN,podcasts.apple.com
+  - DOMAIN,bookkeeper.itunes.apple.com
 # BOA  
   - DOMAIN-SUFFIX,bankofamerica.com
