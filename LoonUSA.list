@@ -3,7 +3,12 @@ DOMAIN,gateway.icloud.com
 DOMAIN,news-edge.apple.com
 DOMAIN,news-events.apple.com
 DOMAIN,apple.comscoreresearch.com
-DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,news-assets.apple.com
+DOMAIN,news-client.apple.com
+DOMAIN,news-client-search.apple.com
+USER-AGENT,AppleNews*
+USER-AGENT,com.apple.news*
 # Siri
 DOMAIN,apple.comscoreresearch.com
 DOMAIN,lookup-api.apple.com
