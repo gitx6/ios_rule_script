@@ -8,14 +8,6 @@ payload:
   - DOMAIN,news-assets.apple.com
   - DOMAIN,news-client.apple.com
   - DOMAIN,news-client-search.apple.com
-  - DOMAIN-SUFFIX,applenews.berlin
-  - DOMAIN-SUFFIX,apple-enews.com
-  - DOMAIN-SUFFIX,appleenews.com
-  - DOMAIN-SUFFIX,applenewsformat.com
-  - DOMAIN-SUFFIX,newschristmasshopping.com
-  - DOMAIN-SUFFIX,applenews.hamburg
-  - DOMAIN-SUFFIX,apple.news
-  - DOMAIN-SUFFIX,applenews.tv
 # Siri
   - DOMAIN,lookup-api.apple.com
   - DOMAIN,lookup-api.apple.com.edgekey.net
