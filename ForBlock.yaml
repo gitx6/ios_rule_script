@@ -1,4 +1,6 @@
 payload:
+  #> 443 UDP
+  - AND,((DST-PORT,443),(NETWORK,UDP))
   #> Safe Browsing 
   - DOMAIN-SUFFIX,safebrowsing.google.com
   - DOMAIN-SUFFIX,safebrowsing.googleapis.com
