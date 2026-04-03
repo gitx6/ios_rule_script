@@ -61,3 +61,9 @@ payload:
   - IP-CIDR,202.90.108.13/32
   # > 抖音
   - DOMAIN-SUFFIX,slb-p2p.vcloud.ks-live.com
+  # > 腾讯视频去开屏广告
+  - DOMAIN,ad.tencentvideo.com
+  - DOMAIN,adstats.tencentvideo.com
+  - DOMAIN,info6.video.qq.com
+  - DOMAIN-SUFFIX,gdtimg.com
+  - DOMAIN-SUFFIX,ugdtimg.com
