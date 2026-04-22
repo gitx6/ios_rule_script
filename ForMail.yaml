@@ -1,10 +1,27 @@
 payload:
+  - DST-PORT,22
+  - DST-PORT,24
   - DST-PORT,25
+  - DST-PORT,26
+  - DST-PORT,50
+  - DST-PORT,57
+  - DST-PORT,105
+  - DST-PORT,106
+  - DST-PORT,109
   - DST-PORT,110
   - DST-PORT,143
+  - DST-PORT,158
+  - DST-PORT,209
+  - DST-PORT,218
+  - DST-PORT,220
   - DST-PORT,465
   - DST-PORT,587
   - DST-PORT,993
+  - DST-PORT,995
+  - DST-PORT,1109
+  - DST-PORT,24554
+  - DST-PORT,60177
+  - DST-PORT,60179
   - DOMAIN,imap.gmail.com
   - DOMAIN-SUFFIX,mail.icloud.com.cn
   - DOMAIN-SUFFIX,mail.me.com
