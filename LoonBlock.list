@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,statsigapi.net
 #> Telegram
 IP-CIDR,95.161.76.100/31
+IP-CIDR,194.221.250.50/32
 #> 美团
 DOMAIN-SUFFIX,dreport.meituan.net
 DOMAIN-SUFFIX,d.meituan.net 
