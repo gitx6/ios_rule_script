@@ -22,6 +22,6 @@ payload:
   - DST-PORT,24554
   - DST-PORT,60177
   - DST-PORT,60179
-#>  - DOMAIN,imap.gmail.com
-#>  - DOMAIN-SUFFIX,mail.icloud.com.cn
-#>  - DOMAIN-SUFFIX,mail.me.com
+  - DOMAIN,imap.gmail.com
+  - DOMAIN-SUFFIX,mail.icloud.com.cn
+  - DOMAIN-SUFFIX,mail.me.com
