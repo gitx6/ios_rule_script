@@ -17,4 +17,6 @@ payload:
 # Nova
 #  - DOMAIN-SUFFIX,xns.one
 #  - DOMAIN-SUFFIX,novaxns.one
-   - mirrors.vsean.net
+   - DOMAIN-SUFFIX,mirrors.vsean.net
+   - DOMAIN-SUFFIX,masterkong.com.cn
+   - DOMAIN-SUFFIX,ksf.cn
